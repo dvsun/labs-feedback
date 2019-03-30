@@ -136,6 +136,7 @@ Reference: [Storytelling and data visualization](https://github.com/ta-data-bcn/
 
 ### Goodness of fit and independence tests
 Reference: [Goodness of fit and independence tests](https://github.com/ta-data-bcn/lab-goodfit-indeptests)
+David - Incorrect statements - Question 4. The statement don't provide any values that we can work with. Plus, the statement itself is difficult to understand IMHO. 
 
 ### Two Sample Hypothesis Tests
 Reference: [Two Sample Hypothesis Tests](https://github.com/ta-data-bcn/lab-two-sample-hypothesis-tests)
